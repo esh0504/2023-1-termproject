@@ -1,0 +1,1 @@
+python eval.py --loadckpt='./checkpoints/3/best_model.pth'
